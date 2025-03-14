@@ -9,7 +9,7 @@ SRCS = Jesus_libFC.c Jesus_testFC.c
 OBJS = $(SRCS:.c=.o)
 
 # Executable name
-TARGET = test_app
+TARGET = jesus_testapp
 
 # Default target (run when you type 'make')
 all: $(TARGET)
